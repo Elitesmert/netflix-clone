@@ -8,6 +8,6 @@ module.exports = {
   images: {
     dangerouslyAllowSVG: true,
     contentSecurityPolicy: "default-src 'self'; script-src 'none'; sandbox;",
-    domains: ['steamuserimages-a.akamaihd.net', "cdn.discordapp.com", "rb.gy"]
+    domains: ['steamuserimages-a.akamaihd.net', "cdn.discordapp.com", "rb.gy", "image.tmdb.org"]
   }
 }
